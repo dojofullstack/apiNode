@@ -5,8 +5,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 let usuario = {
- nombre:'henry',
- apellido: 'dojopy'
+ nombre:'henry new',
+ apellido: 'dojopy new'
 };
 
 let respuesta = {
